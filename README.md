@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Swayanshuu
-- 👀 I’m interested in learning different languages like c, c++, kotlin and etc...
-- 🌱 I’m currently learning c++ asa usal c.
-- 💞️ I’m looking to collaborate on small projects as a biginner with beginners.
-- 📫 Contact me on e-mail- swayanshu19@gmail.com or on Discord uid is- 729034286694662184 to reach me.
+👋 Hi, I’m Shibu
+💻 1st-year BTech CSE student | Passionate about coding & building apps
+📌 Focused on Flutter, Firebase, and Android App Development
+🛠 Also exploring Java for DSA
+🚀 Building personal projects like microblogging apps & creative UIs
+🎯 Goal: Build impactful apps that blend performance with great UI/UX
+🐶 Fun fact: I have a dog who supervises my coding sessions 🐾
 
-
-<!---
-Swayanshuu/Swayanshuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Code. Learn. Build. Repeat."
