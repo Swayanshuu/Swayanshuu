@@ -1,6 +1,6 @@
 <!-- ![Batman fighting](./batmansmaller.gif) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;Full+Stack+Web+Developer;UI%2FUX+Engineer;Part+Time+Content+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;Full+Stack+App+Developer;UI%2FUX+Engineer;Part+Time+Content+Creator)
 
 ```typescript
 
