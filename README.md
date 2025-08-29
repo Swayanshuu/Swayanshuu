@@ -29,48 +29,18 @@ const myDetails = {
 ### Tools & Services
 
 <!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
-![SHOPIFY](https://img.shields.io/badge/shopify-%23000000.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/wordpress-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
-<!-- My Projects -->
 
-## 🧩 My Projects
-
-- [CrepDogCrew](https://crepdogcrew.com/) (E-Commerce Website.)
-
-- [FireGram](https://firegram-proto.netlify.app/) (Photo Gallery App.)
-
-- [Charcter Counter](https://ahmar46.github.io/Character_Counter/) (Count charters for social media captions.)
-
-- [Loruki](https://cloudloruki.netlify.app/) (Cloud Service Agency Website.)
-
-<details>
-<summary>View More</summary>
-
-- [Only Ahmar](https://onlyahmar.netlify.app/) (My portfolio.)
-<!-- - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
-- [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
-
-- [TaskHub](https://taskhub-online.netlify.app/) (Tasks management web application.)
-
-- [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
-
-- [Ahmar Rukantha](https://Ahmar-online.web.app) (Old Portfolio) -->
-
-</details>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Swayanshuu&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 
 ## 📊 GitHub Stats
