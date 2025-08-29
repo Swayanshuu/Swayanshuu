@@ -44,9 +44,9 @@ const myDetails = {
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Swayanshuu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <!-- ## 📊 GitHub Stats
 
@@ -61,7 +61,7 @@ const myDetails = {
  </div> -->
   
 <!-- Contribution Graph -->
-![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
+![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swayanshuu&theme=github-compact)
 
 <!-- Tech Stack -->
 
@@ -71,7 +71,7 @@ const myDetails = {
 
 <!-- ## 🏆 GitHub Trophies -->
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Swayanshuu&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
 
 <!-- Holopin Badges -->
 
@@ -83,11 +83,11 @@ const myDetails = {
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/electrifyingcodes) [![Threads](https://img.shields.io/badge/-threads-FE7A16?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@electrifyingcodes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@electrifyingcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/electrifyingdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/swayan.shuuu) )[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/ahmar46](https://www.linkedin.com/in/swayanshu-sarthak-sadangi-b6751931a/)) 
 
 <hr/>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3124fpyq7tuttbe6xahvgfyjamku&count=1)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31zgxkegx7riaj3xh7nrprxzatta&count=1)
 
 <hr/>
 
@@ -101,6 +101,6 @@ const myDetails = {
 
 <!-- Status -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmar46)
+![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu)
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/@ahmar46) -->
 
