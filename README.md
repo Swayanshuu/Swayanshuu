@@ -60,7 +60,7 @@ const myDetails = {
  </div> -->
   
 <!-- Contribution Graph -->
-![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swayanshuu&theme=github-compact)
+![Swayanshuu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swayanshuu&theme=github-compact)
 
 <!-- Tech Stack -->
 
@@ -84,11 +84,7 @@ const myDetails = {
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/swayan.shuuu) )[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/ahmar46](https://www.linkedin.com/in/swayanshu-sarthak-sadangi-b6751931a/)) 
 
-<hr/>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31zgxkegx7riaj3xh7nrprxzatta&count=1)
-
-<hr/>
 
 <!-- Random Dev Quote -->
 
