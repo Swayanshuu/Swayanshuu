@@ -1,4 +1,9 @@
-![Batman fighting](./batmansmaller.gif) 
+<hr/>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Flutter+Developer;Full+Stack+App+Developer;UI%2FUX+Engineer;Part+Time+Content+Creator)
 
