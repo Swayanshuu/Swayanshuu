@@ -50,9 +50,9 @@ const myDetails = {
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=radical&hide_border=false)<br/>
 
-![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
+![Swayanshuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayanshuu&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&layout=compact&hide_border=true&theme=chartreuse-dark)
 
