@@ -54,7 +54,7 @@ const myDetails = {
 
 ![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&layout=compact&hide_border=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&layout=compact&hide_border=true&theme=chartreuse-dark)
 
  </div> -->
   
