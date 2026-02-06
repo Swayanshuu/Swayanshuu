@@ -15,7 +15,7 @@ const myDetails = {
   machine: "Victus 15",
   editor: "Visual Studio Code",
   platforms: "Mobile",
-  top_tech_stacks: "Flutter, Dart, Firebase",
+  top_tech_stacks: "Flutter, Dart, Firebase, PostgreSQL, Node JS, Prisma",
   skills: "App Development, UI/UX Design",
   languages: "English, Odia, Hindi",
   hobbies: "Programming, Body Building, Playing Video Games"
