@@ -56,12 +56,12 @@ const myDetails = {
 
 
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Swayanshuu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
   
@@ -71,7 +71,7 @@ const myDetails = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&layout=compact&hide_border=true&theme=chartreuse-dark)
 
- </div> 
+ </div> -->
   
 <!-- Contribution Graph -->
 ![Swayanshuu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swayanshuu&theme=github-compact)
