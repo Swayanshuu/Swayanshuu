@@ -110,7 +110,7 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/Swayanshuu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&bg_color=000000&title_color=2563EB&text_color=C0C0C0&icon_color=2563EB" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
   </a>
 </p>
 
@@ -122,11 +122,11 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/Swayanshuu">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&bg_color=000000&title_color=2563EB&text_color=C0C0C0&icon_color=2563EB" alt="GitHub Stats">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats">
   </a>
 
   <a href="https://github.com/Swayanshuu">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&hide_border=true&background=000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideNums=C0C0C0&currStreakNum=FFFFFF&sideLabels=C0C0C0&dates=808080" />
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
   </a>
 </p>
 
