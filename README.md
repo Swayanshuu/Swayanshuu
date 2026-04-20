@@ -102,7 +102,7 @@ class Developer {
 
 <tr>
 <td>
-<a href="[https://github.com/Swayanshuu/TODO-Stuffs" target="_blank](https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view?pli=1)">📝 TODO Stuffs</a>
+<a href="https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view?pli=1" target="_blank">📝 TODO Stuffs</a>
 </td>
 </tr>
 
