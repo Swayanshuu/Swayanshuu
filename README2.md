@@ -109,15 +109,22 @@ class Developer {
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=radical" alt="Streak" />
+      <a href="https://github.com/Swayanshuu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+    </a>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayanshuu&theme=radical" />
+  <a href="https://github.com/Swayanshuu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayanshuu&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swayanshuu&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <a href="https://github.com/Swayanshuu">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Swayanshuu">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&hide_border=true&theme=dark" alt="Aronno1920" />
+  </a>
 </p>
 
 
@@ -189,3 +196,4 @@ I’m open to collaborating on:
   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+
