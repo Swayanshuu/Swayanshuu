@@ -76,11 +76,35 @@ class Developer {
 
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 
-<tr><td>✨ GitGlow</td></tr>
-<tr><td>🌍 GeoQuest</td></tr>
-<tr><td>📦 BatchMate</td></tr>
-<tr><td>💬 Global Chat</td></tr>
-<tr><td>📝 TODO Stuffs</td></tr>
+<tr>
+<td>
+<a href="https://github.com/Swayanshuu/GitGlow" target="_blank">✨ GitGlow</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Swayanshuu/GeoQuest-HackNitR" target="_blank">🌍 GeoQuest</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Swayanshuu/BatchMate" target="_blank">📦 BatchMate</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Swayanshuu/globalchatapp" target="_blank">💬 Global Chat</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="[https://github.com/Swayanshuu/TODO-Stuffs" target="_blank](https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view?pli=1)">📝 TODO Stuffs</a>
+</td>
+</tr>
 
 </table>
 
