@@ -1,105 +1,177 @@
-<hr/>
-
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=520&lines=Flutter+Developer;Full+Stack+App+Developer;Backend+Engineer;Part+Time+Content+Creator)
+
+
+[![GitHub followers](https://img.shields.io/github/followers/Swayanshuu?label=Followers&style=for-the-badge&color=00C896&labelColor=E6FFF8)](https://github.com/Swayanshuu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu&style=for-the-badge&color=1F6FEB&label=Profile+Views)](https://github.com/Swayanshuu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-30%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
 </div>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Flutter+Developer;Full+Stack+App+Developer;Backend+Engineer;Part+Time+Content+Creator)
-
-```typescript
-
-const myDetails = {
-  name: "Swayanshu Sarthak Sadangi",
-  title: "Self-Taught App Developer",
-  machine: "Victus 15",
-  editor: "Visual Studio Code",
-  platforms: "Mobile",
-  top_tech_stacks: "Flutter, Dart, Firebase, PostgreSQL, Node JS, Prisma",
-  skills: "App Development, UI/UX Design",
-  languages: "English, Odia, Hindi",
-  hobbies: "Programming, Body Building, Playing Video Games"
-};
-
+<!-- Deyails -->
+```java
+class Developer {
+    final String name = "Swayanshu Sarthak Sadangi";
+    final String alias = "Swayanshuu";
+    final String title = "Self-Taught App Developer";
+    final String machine = "Victus 15";
+    final String editor = "Visual Studio Code";
+    final String motto = "Building apps with creativity, logic & passion 🚀";
+    final String[] role = {"Flutter Developer", "Java Developer", "Backend Engineer", "UI/UX Designer"};
+    final String[] techStack = {"Flutter", "Dart", "Firebase", "PostgreSQL", "Spring Boot"};
+}
 ```
 
-## 💻 Tech Stack
+# 🛠 Technologies, Projects, and Domains
 
-### Languages, Libraries & Frameworks
+<table border="0" cellspacing="12" cellpadding="10">
+<tr>
 
-![Flutter](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+<!-- TECHNOLOGIES -->
+<td width="420" valign="top" align="center">
 
-### Tools & Services
+<h3>🛠 Technologies</h3>
 
-<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+<table border="1" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="32"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/></td>
+</tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+<td width="320" valign="top">
+
+<h3 align="center">🧪 Projects</h3>
+
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
+
+<tr><td>✨ GitGlow</td></tr>
+<tr><td>🌍 GeoQuest</td></tr>
+<tr><td>📦 BatchMate</td></tr>
+<tr><td>💬 Global Chat</td></tr>
+<tr><td>📝 TODO Stuffs</td></tr>
+
+</table>
+
+</td>
+
+<!-- DOMAINS -->
+<td width="280" valign="top">
+
+<h3 align="center">🚀 Domains</h3>
+
+<table border="1" cellspacing="0" cellpadding="8" width="100%">
+<tr><td>📱 Mobile App Development</td></tr>
+<tr><td>⚙️ Backend Development</td></tr>
+<tr><td>🎨 UI/UX Design</td></tr>
+<tr><td>☁️ Cloud Integration</td></tr>
+<tr><td>🚀 Cross Platform Apps</td></tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
+### 📊 Vital Statistics
+
+<p align="center">
+      <a href="https://github.com/Swayanshuu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+    </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Swayanshuu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayanshuu&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Swayanshuu">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Swayanshuu">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&hide_border=true&theme=dark" alt="Aronno1920" />
+  </a>
+</p>
 
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
-<!--## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swayanshuu&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
 
+<!-- LEFT: COLLAB -->
+<td width="50%" valign="top">
 
+<h2>🤝 Collaboration</h2>
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Swayanshuu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+I’m open to collaborating on:
 
-<!--## 📊 GitHub Stats
+<ul>
+  <li>Flutter app development</li>
+  <li>Cross-platform mobile apps</li>
+  <li>Backend APIs with Spring Boot</li>
+  <li>UI/UX design projects</li>
+</ul>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&theme=radical&hide_border=false)<br/>
+</td>
 
-![Swayanshuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayanshuu&theme=chartreuse-dark&hide_border=true&show_icons=true)
+<!-- RIGHT: CONTACT -->
+<td width="50%" valign="top" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&layout=compact&hide_border=true&theme=chartreuse-dark)
+<h2>📫 Contact</h2>
 
- </div> -->
-  
-<!-- Contribution Graph -->
-![Swayanshuu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swayanshuu&theme=github-compact)
+<a href="https://github.com/Swayanshuu">
+  <img src="https://img.shields.io/badge/GitHub-Swayanshuu-181717?style=for-the-badge&logo=github">
+</a>
 
-<!-- Tech Stack -->
+<a href="mailto:swayanshu19@gmail.com">
+  <img src="https://img.shields.io/badge/email-swayanshu19@gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
 
+<a href="https://www.linkedin.com/in/swayanshu-sarthak-sadangi-b6751931a/">
+  <img src="https://img.shields.io/badge/linkedin-Swayanshu-blue?style=for-the-badge&logo=linkedin">
+</a>
 
+</td>
 
-<!-- GitHub Trophies -->
+</tr>
+</table>
 
-<!-- ## 🏆 GitHub Trophies -->
-
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Swayanshuu&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
-
-<!-- Holopin Badges -->
-
-<!-- ## 📛 Holopin Badges
-
-[![An image of @ahmar46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmar46)](https://holopin.io/@ahmar46) -->
-
-<!-- Socials -->
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ## 🌐 Socials
 
@@ -121,6 +193,8 @@ const myDetails = {
 
 ### ✍️ Random Dev Quote
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true" />
+</p>
 
-
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
