@@ -109,21 +109,24 @@ class Developer {
 ### 📊 Vital Statistics
 
 <p align="center">
-      <a href="https://github.com/Swayanshuu">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
-    </a>
-</p>
-<p align="center">
   <a href="https://github.com/Swayanshuu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayanshuu&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayanshuu&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&bg_color=000000&title_color=2563EB&text_color=C0C0C0&icon_color=2563EB" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Swayanshuu">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayanshuu&theme=github_dark" alt="GitHub Profile Summary">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Swayanshuu">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&hide_border=true&theme=dark" alt="Aronno1920" />
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Swayanshuu&show_icons=true&hide_border=true&hide_title=true&bg_color=000000&title_color=2563EB&text_color=C0C0C0&icon_color=2563EB" alt="GitHub Stats">
+  </a>
+
+  <a href="https://github.com/Swayanshuu">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Swayanshuu&hide_border=true&background=000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideNums=C0C0C0&currStreakNum=FFFFFF&sideLabels=C0C0C0&dates=808080" />
   </a>
 </p>
 
