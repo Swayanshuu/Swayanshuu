@@ -192,8 +192,11 @@ I’m open to collaborating on:
 
 ### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true&show_icons=true&accent=2563EB" />
+<p align="center" style="padding: 18px 0; margin: 12px 0;">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true&show_icons=true&accent=2563EB" 
+    style="padding:12px; max-width:100%;"
+  />
 </p>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
