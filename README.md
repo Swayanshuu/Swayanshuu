@@ -6,6 +6,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=520&lines=Flutter+Developer;Full+Stack+App+Developer;Backend+Engineer;Part+Time+Content+Creator)
 
+<h3>
+🚀 A guy diving deep into the world through code.
+</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/Swayanshuu?label=Followers&style=for-the-badge&color=00C896&labelColor=E6FFF8)](https://github.com/Swayanshuu)
 [![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu&style=for-the-badge&color=1F6FEB&label=Profile+Views)](https://github.com/Swayanshuu)
