@@ -30,83 +30,116 @@ class Developer {
 }
 ```
 
-# 🛠 Technologies, Projects, and Domains
+# 🛠 Tech Stack & Domains
 
-<table border="0" cellspacing="12" cellpadding="10">
+<table border="0" cellspacing="18" cellpadding="10" align="center">
+
 <tr>
 
 <!-- TECHNOLOGIES -->
-<td width="420" valign="top" align="center">
+<td valign="top" align="center">
 
 <h3>🛠 Technologies</h3>
 
-<table border="1" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="32"/></td>
-</tr>
+<table border="1" cellspacing="0" cellpadding="16">
 
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/></td>
-</tr>
-</table>
-
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/><br><br>
+Flutter
 </td>
 
-<!-- PROJECTS -->
-<td width="320" valign="top">
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/><br><br>
+Dart
+</td>
 
-<h3 align="center">🧪 Projects</h3>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/><br><br>
+Firebase
+</td>
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
-
-<tr>
-<td>
-<a href="https://github.com/Swayanshuu/GitGlow" target="_blank">✨ GitGlow</a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40"/><br><br>
+Supabase
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/Swayanshuu/GeoQuest-HackNitR" target="_blank">🌍 GeoQuest</a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br><br>
+Java
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/><br><br>
+Spring Boot
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/><br><br>
+Maven
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br><br>
+PostgreSQL
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/Swayanshuu/BatchMate" target="_blank">📦 BatchMate</a>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40"/><br><br>
+Tomcat
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br><br>
+C
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br><br>
+C++
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/Swayanshuu/globalchatapp" target="_blank">💬 Global Chat</a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/><br><br>
+Android Studio
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br><br>
+VS Code
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br><br>
+GitHub
 </td>
 </tr>
 
 <tr>
-<td>
-<a href="https://github.com/Swayanshuu/todostuffs" target="_blank">📝 TODO Stuffs</a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/><br><br>
+Figma
 </td>
+
+<td align="center">🚀</td>
+<td align="center">🚀</td>
+<td align="center">🚀</td>
 </tr>
 
 </table>
@@ -114,21 +147,115 @@ class Developer {
 </td>
 
 <!-- DOMAINS -->
-<td width="280" valign="top">
+<td valign="top" align="center">
 
-<h3 align="center">🚀 Domains</h3>
+<h3>🚀 Domains</h3>
 
-<table border="1" cellspacing="0" cellpadding="8" width="100%">
-<tr><td>📱 Mobile App Development</td></tr>
-<tr><td>⚙️ Backend Development</td></tr>
-<tr><td>🎨 UI/UX Design</td></tr>
-<tr><td>☁️ Cloud Integration</td></tr>
-<tr><td>🚀 Cross Platform Apps</td></tr>
+<table border="1" cellspacing="0" cellpadding="14">
+
+<tr>
+<td align="center">📱 Mobile App Development</td>
+</tr>
+
+<tr>
+<td align="center">⚙️ Backend Development</td>
+</tr>
+
+<tr>
+<td align="center">🎨 UI/UX Design</td>
+</tr>
+
+<tr>
+<td align="center">☁️ Cloud Integration</td>
+</tr>
+
+<tr>
+<td align="center">🚀 Cross Platform Apps</td>
+</tr>
+
 </table>
 
 </td>
 
 </tr>
+</table>
+
+---
+
+# 🧪 Projects
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%" style="table-layout: fixed; word-wrap: break-word;">
+
+<tr>
+<td style="word-wrap: break-word; overflow-wrap: break-word;">
+
+<h4>
+✨ <a href="https://github.com/Swayanshuu/GitGlow" target="_blank">GitGlow</a>
+</h4>
+
+<p>
+A visually stunning Flutter-based Android live wallpaper that displays GitHub contribution heatmaps directly on the home screen, creating a personalized developer experience.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="word-wrap: break-word; overflow-wrap: break-word;">
+
+<h4>
+🌍 <a href="https://github.com/Swayanshuu/GeoQuest-HackNitR" target="_blank">GeoQuest</a>
+</h4>
+
+<p>
+A hackathon project built during HackNITR that secured a <b>Top 10 position</b> among 3000+ participants through innovation, collaboration, and impactful problem-solving.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="word-wrap: break-word; overflow-wrap: break-word;">
+
+<h4>
+📦 <a href="https://github.com/Swayanshuu/BatchMate" target="_blank">BatchMate</a>
+</h4>
+
+<p>
+A Flutter-based productivity application that helps students manage assignments, timetables, and class notices through a centralized and organized platform.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="word-wrap: break-word; overflow-wrap: break-word;">
+
+<h4>
+💬 <a href="https://github.com/Swayanshuu/globalchatapp" target="_blank">Global Chat</a>
+</h4>
+
+<p>
+A real-time chat application developed using Flutter and Firebase to understand authentication, cloud databases, and instant messaging systems.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="word-wrap: break-word; overflow-wrap: break-word;">
+
+<h4>
+📝 <a href="https://github.com/Swayanshuu/todostuffs" target="_blank">TODO Stuffs</a>
+</h4>
+
+<p>
+A clean and minimal task management application where users can add, organize, and delete daily tasks with a simple user experience.
+</p>
+
+</td>
+</tr>
+
 </table>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
