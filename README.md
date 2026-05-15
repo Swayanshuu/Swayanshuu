@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Swayanshuu?label=Followers&style=for-the-badge&color=00C896&labelColor=E6FFF8)](https://github.com/Swayanshuu)
 [![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu&style=for-the-badge&color=1F6FEB&label=Profile+Views)](https://github.com/Swayanshuu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-30%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-60%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
@@ -26,163 +26,81 @@ class Developer {
     final String editor = "Visual Studio Code";
     final String motto = "Building apps with creativity, logic & passion 🚀";
     final String[] role = {"Flutter Developer", "Java Developer", "Backend Engineer", "UI/UX Designer"};
-    final String[] techStack = {"Flutter", "Dart", "Firebase", "PostgreSQL", "Spring Boot"};
+    final String[] techStack = {"Flutter", "Dart", "Supabase", "PostgreSQL", "Spring Boot"};
 }
 ```
 
-# 🛠 Tech Stack & Domains
+# 🛠 Tech Stack
+<div align="center">
 
-<table border="0" cellspacing="18" cellpadding="10" align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
 
-<tr>
+### 📱 Mobile Development
 
-<!-- TECHNOLOGIES -->
-<td valign="top" align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-<h3>🛠 Technologies</h3>
+### ☁️ Backend & Cloud
 
-<table border="1" cellspacing="0" cellpadding="16">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/><br><br>
-Flutter
-</td>
+### 🗄️ Database & ORM
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/><br><br>
-Dart
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/><br><br>
-Firebase
-</td>
+### 💻 Programming Languages
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40"/><br><br>
-Supabase
-</td>
-</tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br><br>
-Java
-</td>
+### 🛠️ Tools & Platforms
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/><br><br>
-Spring Boot
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/><br><br>
-Maven
-</td>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=footer"/>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br><br>
-PostgreSQL
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40"/><br><br>
-Tomcat
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><br>
-Python
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br><br>
-C
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br><br>
-C++
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br><br>
-Git
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/><br><br>
-Android Studio
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br><br>
-VS Code
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br><br>
-GitHub
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/><br><br>
-Figma
-</td>
-
-<td align="center">🚀</td>
-<td align="center">🚀</td>
-<td align="center">🚀</td>
-</tr>
-
-</table>
-
-</td>
-
-<!-- DOMAINS -->
-<td valign="top" align="center">
-
-<h3>🚀 Domains</h3>
-
-<table border="1" cellspacing="0" cellpadding="14">
-
-<tr>
-<td align="center">📱 Mobile App Development</td>
-</tr>
-
-<tr>
-<td align="center">⚙️ Backend Development</td>
-</tr>
-
-<tr>
-<td align="center">🎨 UI/UX Design</td>
-</tr>
-
-<tr>
-<td align="center">☁️ Cloud Integration</td>
-</tr>
-
-<tr>
-<td align="center">🚀 Cross Platform Apps</td>
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 🧪 Projects
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
 
 <table border="1" cellspacing="0" cellpadding="12" width="100%" style="table-layout: fixed; word-wrap: break-word;">
 
@@ -260,7 +178,9 @@ A clean and minimal task management application where users can add, organize, a
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
 
-### 📊 Vital Statistics
+## 📊 Vital Statistics
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
 
 <p align="center">
   <a href="https://github.com/Swayanshuu">
@@ -344,7 +264,9 @@ I’m open to collaborating on:
 
 <!-- Random Dev Quote -->
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
 
 <p align="center" style="padding: 18px 0; margin: 12px 0;">
   <img 
