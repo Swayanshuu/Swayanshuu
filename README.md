@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Swayanshuu?label=Followers&style=for-the-badge&color=00C896&labelColor=E6FFF8)](https://github.com/Swayanshuu)
 [![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu&style=for-the-badge&color=1F6FEB&label=Profile+Views)](https://github.com/Swayanshuu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-60%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-70%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
