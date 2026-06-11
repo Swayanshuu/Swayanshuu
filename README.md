@@ -10,6 +10,12 @@
 🚀 A guy diving deep into the world through code.
 </h3>
 
+<p align="center">
+  <a href="https://swayanshus.me">
+    <img src="https://img.shields.io/badge/🖱️%20Visit%20Me-1f6feb?style=for-the-badge" />
+  </a>
+</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Swayanshuu&style=for-the-badge&color=1F6FEB&label=Profile+Views)](https://github.com/Swayanshuu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-80%2B_Problems-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
