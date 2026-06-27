@@ -16,7 +16,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 * Collaborating with fellow developers on projects, workshops, and community-driven programs.
 
 ## Technical Profile
-- Solved 90+ questions in LeetCode.
+- **Solved 100+ questions in LeetCode.**
 
 **Languages:** Java, Dart, Python, C/C++, SQL
 
