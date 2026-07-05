@@ -51,7 +51,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 
 <div align="center">
 
-Visit <a href="https://swynx.dev">Swynx.dev</a>
+Visit <a href="https://swynx.dev">Swynx.dev</a>  🚀
 
 </div>
 
