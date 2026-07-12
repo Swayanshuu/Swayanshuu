@@ -53,6 +53,8 @@ I build mobile and backend applications with a focus on scalable architecture, c
 
 Visit <a href="https://swynx.dev">Swynx.dev</a>  🚀
 
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120"/>
+
 </div>
 
 ---
