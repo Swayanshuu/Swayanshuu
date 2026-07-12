@@ -45,6 +45,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 * Portfolio → https://swayanshu.swynx.dev
 * LinkedIn → https://www.linkedin.com/in/swayanshu-sarthak-sadangi-b6751931a
 * Email → mailto:swayanshu19@gmail.com
+* **[ Other links are at profile :) ]**
 
   
 ---
