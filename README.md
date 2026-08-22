@@ -34,7 +34,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 
 * **#1 Rank in IGIT Sarang** — Highest-ranked participant from my college in **GirlScript Summer of Code 2026**.
 
-* **Top 10 Finalist, HackNITR** — Secured a **Top 10 position among 3000+ participants** by developing an innovative solution under competitive hackathon conditions.
+* **Top 10 Finalist, HackNITR 7.0** — Secured a **Top 10 position among 3000+ participants** by developing an innovative solution under competitive hackathon conditions.
 
 * **Open Source Contributor** — Contributing to enterprise-level projects using **Java, Spring Boot, and Flutter** through GirlScript Summer of Code 2026.
 
