@@ -16,7 +16,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 * Collaborating with fellow developers on projects, workshops, and community-driven programs.
 
 ## Technical Profile
-- **Solved 200+ questions in LeetCode.**
+**Solved 200+ questions in LeetCode.** <a href="https://leetcode.com/u/swayanshuu/">[Link]</a>
 
 **Languages:** Java, Dart, Python, C/C++, SQL
 
@@ -42,12 +42,10 @@ I build mobile and backend applications with a focus on scalable architecture, c
 
 ## Links
 
-* Portfolio → https://swayanshu.swynx.dev
-* LinkedIn → https://www.linkedin.com/in/swayanshu-sarthak-sadangi-b6751931a
-* Email → mailto:swayanshu19@gmail.com
-* **[ Other links are at profile :) ]**
+<p><a href="https://swynx.dev" target="_blank" rel="noopener noreferrer">Portfolio &#x2197;</a></p>
+<p><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn &#x2197;</a></p>
+<p><a href="mailto:swayanshu19@gmail.com">Email &#x2197;</a></p>
 
-  
 ---
 
 <div align="center">
