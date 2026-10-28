@@ -42,7 +42,7 @@ I build mobile and backend applications with a focus on scalable architecture, c
 
 ## Links
 
-<p><a href="https://swynx.dev" target="_blank" rel="noopener noreferrer">Portfolio &#x2197;</a></p>
+<p><a href="https://swayanshu.swynx.dev" target="_blank" rel="noopener noreferrer">Portfolio &#x2197;</a></p>
 <p><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn &#x2197;</a></p>
 <p><a href="mailto:swayanshu19@gmail.com">Email &#x2197;</a></p>
 
